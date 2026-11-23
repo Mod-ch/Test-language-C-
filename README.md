@@ -6,14 +6,14 @@ Nouakchott.
 
 ## Contenu
 
-- `[nom_fichier.c]` : [ce que fait le programme, ex. calcul de factorielle]
-- `[nom_fichier.c]` : [ex. manipulation de tableaux]
-- `[nom_fichier.c]` : [ex. boucles et conditions]
+- `agree.c` : demeande si l'utilisateur est agree ou nom
+- `uppercase.c` : transforme les mots un upperercase  (Majiscule)
+- `liearSearch.c` : effectie des recherches linier
 
 ## Compilation et exécution
 
 ```bash
-gcc nom_fichier.c -o programme
+gcc lierarSecrch.c -o programme
 ./programme
 ```
 
